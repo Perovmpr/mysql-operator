@@ -36,7 +36,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/webhook"
 
 	otusv1 "github.com/perovmpr/mysql-operator/api/v1"
-	_ "github.com/perovmpr/mysql-operator/internal/controller"
+	"github.com/perovmpr/mysql-operator/internal/controller"
 	// +kubebuilder:scaffold:imports
 )
 
