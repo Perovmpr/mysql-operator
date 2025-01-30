@@ -24,7 +24,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/yourusername/mysql-operator/test/utils"
+	"github.com/perovmpr/mysql-operator/test/utils"
 )
 
 const namespace = "k8s-operator-system"

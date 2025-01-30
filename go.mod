@@ -1,4 +1,4 @@
-module github.com/yourusername/mysql-operator
+module github.com/perovmpr/mysql-operator
 
 go 1.22.0
 
